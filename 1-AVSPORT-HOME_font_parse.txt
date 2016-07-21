@@ -1,0 +1,176 @@
+Value: Contact
+Font Name: AkzidenzGroteskPro-MdCn
+Font Size: 26
+------------
+Value: catalog
+Font Name: AkzidenzGroteskPro-MdCn
+Font Size: 26
+------------
+Value: About us
+Font Name: AkzidenzGroteskPro-MdCn
+Font Size: 26
+------------
+Value: home
+Font Name: AkzidenzGroteskPro-MdCn
+Font Size: 26
+------------
+Value: 8 800 300 200 50
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: AV  SPORT
+Font Name: Intro-Black
+Font Size: 24
+------------
+Value: shop
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 24
+------------
+Value: Take 25% off your next order!*
+Font Name: OpenSans-Bold
+Font Size: 14
+------------
+Value: av sportequpment
+Font Name: AkzidenzGroteskPro-XBdCn
+Font Size: 90
+------------
+Value: Gloves
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 24
+------------
+Value: PUNCHING BAGS
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 24
+------------
+Value: Rings
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 24
+------------
+Value: addidas
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 24
+------------
+Value: helmets
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 24
+------------
+Value: shirts
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 24
+------------
+Value: $139.99
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 16
+------------
+Value: Adjustable Weighted Training
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 16
+------------
+Value: $29.99
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 16
+------------
+Value: Men's Universal FIT Gloves
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 16
+------------
+Value: $29.99
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 16
+------------
+Value: Stability Ball & Pump, 65 CM
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 16
+------------
+Value: FEATURED PRODUCTS
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 30
+------------
+Value: $29.99
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 16
+------------
+Value: Classic Training Gloves
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 16
+------------
+Value: Подписаться
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 18
+------------
+Value: Ваш емэйл
+Font Name: OpenSans
+Font Size: 13
+------------
+Value: SIGN UP FOR EMAILS
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 22
+------------
+Value: About
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 22
+------------
+Value: 15.06.2016Мы открылись!
+Font Name: AkzidenzGroteskPro-BoldCn
+Font Size: 18
+------------
+Value: В честь открытия нашего магазина, мы дарим скидку 10% всем покупателям
+Font Name: OpenSans
+Font Size: 13
+------------
+Value: The name Everlast is synonymous with boxing, although the company started out as a swimwear manufacturer in the Bronx in 1910. Seventeen year-old Jacob Golomb, the son of a tailor and an avid swimmer, was dissatisfied with swimsuits of the time that barely lasted a season, and began making suits that he guaranteed would last for a full year. He proudly gave them the name "EVERLAST", and although the swimsuits did not last throughout history, the name did. 
+Font Name: OpenSans
+Font Size: 13
+------------
+Value: Gloves
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: PUNCHING BAGS
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: Rings
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: © 2016 AV sport
+Font Name: OpenSans
+Font Size: 13
+------------
+Value: Contact
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: catalog
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: About us
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: home
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: addidas
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: helmets
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: shirts
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: 8 800 300 200 50
+Font Name: AkzidenzGroteskPro-Cn
+Font Size: 18
+------------
+Value: AV  SPORT
+Font Name: Intro-Black
+Font Size: 24
+------------
