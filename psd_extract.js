@@ -7,14 +7,14 @@ var files = [
     'VRABOTU/5-AVSPORT-CART.psd',
     'VRABOTU/6-AVSPORT-CHECKOUT.psd',
     'VRABOTU/7-AVSPORT-CONTACT.psd',
-    'VRABOTU/8-AVSPORT-HOVERS.psd',
+    'VRABOTU/8-AVSPORT-HOVERS.psd'
 ];
 
 files.forEach(prepare);
 
 
 
-function prepare(file){
+function prepare(file) {
     // console.log(file);
 
     var psd = PSD.fromFile(file);
@@ -40,16 +40,6 @@ function makeStorage(){
 }
 storage = makeStorage();
 
-// console.log(storage);
-// console.log(storage());
-// console.log(storage.add([1,2]));
-// console.log(storage());
-// throw 'ololo';
-
-/**
- *
- * @param element
- */
 function iterator(element) {
 
     if (element.hasChildren()) {
@@ -62,9 +52,13 @@ function iterator(element) {
                 if (typeof text_layer !== "undefined") {
                     var transY = text_layer.transform.yy; // 2.000077137715913
                     var fontSize = text_layer.font.sizes[0]; // 15.99938 ✘
-                    var lineHeight = text_layer.font.hasOwnProperty('leadings') ? text_layer.font.leadings[0] : '';  // 60 ✘
+                    var lineHeight = text_layer.font.hasOwnProperty('leadings') ? text_layer.font.leadings[0] : '1.2';  // 60 ✘
                     fontSize = Math.round((fontSize * transY) * 100) * 0.01; // 32 ✔
-                    storage.add([1,2]);
+			console.log(text_layer.value);
+      console.log(text_layer);
+			console.log(text_layer.font.name);
+			console.log('----------------------');
+                    // storage.add([1,2]);
                     // storage.add([text_layer.font.name, text_layer.value, fontSize, lineHeight]);
                 }
             }
