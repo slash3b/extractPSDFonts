@@ -1,0 +1,6 @@
+-- simple console utility which just gives me all fonts
+    -- HOW ?
+    -- all given PSD will be parsed. PSD are given as arguments
+
+-- wrap it in node js
+-- expand capabilities
