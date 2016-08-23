@@ -1,6 +1,15 @@
--- simple console utility which just gives me all fonts
-    -- HOW ?
-    -- all given PSD will be parsed. PSD are given as arguments
+-- Simple console utility which parses PSD and return list of fonts:
+    -- script is supplied with argument which is full path to the PSD file
+        - if no path is given or there is no PSD throw some error
+        - if PSD is empty/blank or not layers are there, than end script execution with appropriate message.
+    -- script will go through each layer and gather/filter font titles
+    -- at the end script ouputs simple list of all fonts found
 
--- wrap it in node js
--- expand capabilities
+-- Additional Options:
+        - handle multiple files, directories
+        - let user choose parameters to be extracted, to remove duplicates or not, sorting, etc ( would be better with NodeJS ).
+        - fonts with size, line height, line-spacing, font-size
+        - wrap it up with NodeJS and Express framework
+        - gather statistics on how many font variations is there, how many duplicates
+        - various formats of output for the list of fonts
+        
