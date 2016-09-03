@@ -7,7 +7,7 @@ var abbrVocab = {
   'X': 'Extra',
   'Bd': 'Bold',
   'Cn': 'Condensed',
-  'Md': 'Medium',
+  'Md': 'Medium'
 };
 
 /**
@@ -49,9 +49,9 @@ function iterator(element) {
       } else {
         var text_layer = target.export().text;
         if (typeof text_layer !== "undefined") {
-          var fontSize = text_layer.font.sizes[0]; // 15.99938 ✘
+          var fontSize = Math.round(text_layer.font.sizes[0]); // 15.99938 ✘
           var transY = text_layer.transform.yy; // 2.000077137715913
-          var lineHeight = text_layer.font.hasOwnProperty('leadings') ? text_layer.font.leadings[0] : '1.2';  // 60 ✘
+          var lineHeight = parseFloat(text_layer.font.hasOwnProperty('leadings') ? text_layer.font.leadings[0] : '1.2'); // 60 ✘
           // vfontSize = Math.round((fontSize * transY) * 100) * 0.01; // 32 ✔
 
           var font = {
@@ -59,6 +59,9 @@ function iterator(element) {
             fontSize: fontSize,
             lineHeight: lineHeight
           };
+
+          // console.log(font);
+
           // the way to know if we already have this font in the collection
           var isset = _.find(fonts, font);
           if (typeof isset == "undefined") {
@@ -77,7 +80,6 @@ var files = process.argv;
 files.shift();
 files.shift();
 files.forEach(prepare);
-
 
 fonts.forEach(normalizeFont);
 

@@ -1,10 +1,15 @@
 {
   "name": "psdparse",
   "version": "0.0.0",
-  "description": "Parse PSD with psd.js library",
-  "main": "parser.js",
+  "description": "Parse fonts in PSD with psd.js library",
+  "main": "app.js",
   "dependencies": {
-    "psd": "^3.1.0"
+    "body-parser": "^1.15.2",
+    "child_process": "^1.0.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "psd": "^3.1.0",
+    "pug": "^2.0.0-beta6"
   },
   "devDependencies": {},
   "scripts": {
