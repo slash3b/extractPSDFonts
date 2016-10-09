@@ -83,4 +83,5 @@ files.forEach(prepare);
 
 fonts.forEach(normalizeFont);
 
-console.log(_.sortBy(fonts, 'name'));
+fonts = _.sortBy(fonts, 'name');
+console.log(JSON.stringify({"fonts":fonts}));
