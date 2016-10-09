@@ -1,10 +1,10 @@
 # extractPSDFonts
-Simple function which allows to extract fonts from PSD
+Simple function which allows to extract fonts from PSD, base on tremedous work - https://meltingice.github.io/psd.js
 
-In order to use just cloone or donwload and run `npm install` command.
+In order to use just clone or donwload and run `npm install` command in the repo folder.
 The parser function is pretty straight forward, in order to extract fonts from PSD you should run `node parser.js <full/path/to/file>`
 
-As a response the script will spit out JSON, similar to this 
+As a response the script will spit out JSON, similar to this:
 ```
 {
 	"fonts": [{
